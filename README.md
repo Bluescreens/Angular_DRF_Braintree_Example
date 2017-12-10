@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ### Installation
 
-* Use your braintree credentials [here]()
+* Use your braintree credentials [here](https://github.com/Bluescreens/Angular4_DRF_Braintree_Example/blob/2229a6823b6a7a66aab533cc23e18474213bea57/server/braintreeapi/views.py#L10)
 
 ```
 cd client
@@ -46,9 +46,9 @@ python manage.py runserver
 
 ## Licence
 
-This project is licensed under the  - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the  GNU General Public License v3.0- see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Special thanks to professor Panos Louridas for his contribution to [payment.component.ts]().
+* Special thanks to professor Panos Louridas for his contribution to [payment.component.ts](https://github.com/Bluescreens/Angular4_DRF_Braintree_Example/blob/master/client/src/app/payment/payment.component.ts).
 * You could check for more examples about internet cloud apps (Angular, Django, DRF, Flask, nginx, nodejs) [here](https://github.com/louridas/internet_cloud_apps)
