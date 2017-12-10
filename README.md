@@ -9,14 +9,14 @@ The following instructions will get you a copy of this project up and running on
 ### Download
 
 ```
-git clone git@github.com:Bluescreens/Angular4_DRF_Braintree_Example.git
-cd Angular4_DRF_Braintree_Example
+git clone git@github.com:Bluescreens/Angular_DRF_Braintree_Example.git
+cd Angular_DRF_Braintree_Example
 ```
 
 ### Prerequisites
 
 * python: 3.6.3
-* Angular >= 4
+* Angular = 4
 
 
 ```
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ### Installation
 
-* Use your braintree credentials [here](https://github.com/Bluescreens/Angular4_DRF_Braintree_Example/blob/2229a6823b6a7a66aab533cc23e18474213bea57/server/braintreeapi/views.py#L10).
+* Use your braintree credentials [here](https://github.com/Bluescreens/Angular_DRF_Braintree_Example/blob/2229a6823b6a7a66aab533cc23e18474213bea57/server/braintreeapi/views.py#L10).
 
 ```
 cd client
@@ -51,5 +51,5 @@ This project is licensed under the  GNU General Public License v3.0 &mdash; see 
 
 ## Acknowledgments
 
-* Special thanks to [**Panos Louridas**](https://github.com/louridas) for his contribution to [payment.component.ts](https://github.com/Bluescreens/Angular4_DRF_Braintree_Example/blob/master/client/src/app/payment/payment.component.ts).
+* Special thanks to [**Panos Louridas**](https://github.com/louridas) for his contribution to [payment.component.ts](https://github.com/Bluescreens/Angular_DRF_Braintree_Example/blob/master/client/src/app/payment/payment.component.ts).
 * You could check for more examples about internet cloud apps (Angular, Django, DRF, Flask, nginx, nodejs) [here](https://github.com/louridas/internet_cloud_apps).
