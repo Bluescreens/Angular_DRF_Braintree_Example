@@ -51,5 +51,5 @@ This project is licensed under the  GNU General Public License v3.0 &mdash; see 
 
 ## Acknowledgments
 
-* Special thanks to [**Panos Louridas**](https://github.com/louridas) for his contribution to [payment.component.ts](https://github.com/Bluescreens/Angular_DRF_Braintree_Example/blob/master/client/src/app/payment/payment.component.ts).
+* Special thanks to [**Panos Louridas**](https://github.com/louridas) for his contribution to [payment.component.ts](https://github.com/Bluescreens/Angular_DRF_Braintree_Example/blob/master/client/src/app/payment/payment.component.ts) and to [RottenCrab](https://github.com/RottenCrab) for his help to the backend.
 * You could check for more examples about internet cloud apps (Angular, Django, DRF, Flask, nginx, nodejs) [here](https://github.com/louridas/internet_cloud_apps).
