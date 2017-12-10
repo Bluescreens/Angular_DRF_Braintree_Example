@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ```
 cd client
-npm install && ng built
+npm install && ng build
 cd ../server
 python manage.py runserver
 ```
