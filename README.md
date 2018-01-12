@@ -47,7 +47,7 @@ python manage.py runserver
 
 ## Licence
 
-This project is licensed under the  GNU General Public License v3.0 &mdash; see [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the  MIT Licence &mdash; see [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
